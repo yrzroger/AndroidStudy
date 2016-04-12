@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ExtraText">
+        <ignore path="res/layout/first_layout.xml" />
+        <ignore path="res/layout/second_layout.xml" />
+    </issue>
+</lint>

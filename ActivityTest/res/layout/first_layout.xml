@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <!-- 添加EXIT按钮，用于销毁活动 -->
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/exit_name"
+        />
+    
+    
+    <!-- 添加StartSecondActivity按钮，用于启动另一个活动 -->
+    <Button				
+        android:id="@+id/start_second_activity"         		
+        android:layout_width="match_parent"		
+        android:layout_height="wrap_content"		
+        android:text="@string/start_second_activity_name"			
+        />
+    
+    
+    <!-- 添加按钮OpenExplorer,用于打开网页 -->
+    <Button 
+        android:id="@+id/open_explorer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_explorer_name"
+        />"
+
+</LinearLayout>

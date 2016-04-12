@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">ActivityTest</string>
+    
+    <string name="exit_name">EXIT</string>
+    <string name="start_second_activity_name">Start SecondActivity</string>
+    <string name="open_explorer_name">Open Explorer</string>
+    <string name="call_phone_name">Call Phone</string>
+    <string name="back_name">Back</string>
+    <string name="button3_name">Button3</string>
+    
+    <string name="menu_add_item_name">Add</string>
+    <string name="menu_remove_item_name">Remove</string>
+
+</resources>
